@@ -1,6 +1,6 @@
 # rjw686.github.io Github仓库说明
 **注意！这里不是网站页面，这里只是存储网页源码的Github仓库！访问网页请移步
-[这里](rjw686.github.io)**
+[这里](http://rjw686.github.io/index.html)**
 # 说明
 本站提供：
 - 资源库
